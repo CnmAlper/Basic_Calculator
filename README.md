@@ -1,5 +1,5 @@
 # Basic_Calculator
-Today I build a simple GUI calculator in Python. For the graphical user interface we use tkinter.
+Today I build a simple GUI calculator in Python. For the graphical user interface I use tkinter.
 
 ![calculator](https://user-images.githubusercontent.com/79938189/164946745-965a1183-d5b1-450f-8140-81a91c66e86d.png)
 
